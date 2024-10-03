@@ -43,6 +43,6 @@ Optimized Mobile View: Further refine the mobile layout for better usability on 
 Feel free to contribute! Fork the project, submit PRs, or open issues if you have any suggestions or improvements. Any feedback is appreciated!
 
 📧 Contact
-If you have any questions or need assistance, feel free to reach out via GitHub or through email at your.email@example.com.
+If you have any questions or need assistance, feel free to reach out via GitHub.
 
 Hope you find this project useful and educational! 😊✨
